@@ -3,7 +3,7 @@ bibentry(
   title = "metrictrails: Processing of GNSS Streams from Sports Watches",
   author = person("Raimundo", "Sanchez"),
   year = "2026",
-  note = "R package version 0.1.0",
+  note = paste("R package version", meta$Version),
   url = "https://github.com/raimun2/metrictrails"
 )
 
